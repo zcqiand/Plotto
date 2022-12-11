@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UltraNuke.Plotto.Api", "src\UltraNuke.Plotto.Api\UltraNuke.Plotto.Api.csproj", "{202233D4-9DFC-4368-96E3-AC07A4612C4B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UltraNuke.Plotto.Domain", "src\UltraNuke.Plotto.Domain\UltraNuke.Plotto.Domain.csproj", "{4C9278B8-23BA-42DF-A713-82800071EACA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UltraNuke.Plotto.Utils", "src\UltraNuke.Plotto.Utils\UltraNuke.Plotto.Utils.csproj", "{A7E029B8-50CE-4199-A230-3E1992D1721A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{202233D4-9DFC-4368-96E3-AC07A4612C4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{202233D4-9DFC-4368-96E3-AC07A4612C4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{202233D4-9DFC-4368-96E3-AC07A4612C4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{202233D4-9DFC-4368-96E3-AC07A4612C4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C9278B8-23BA-42DF-A713-82800071EACA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C9278B8-23BA-42DF-A713-82800071EACA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C9278B8-23BA-42DF-A713-82800071EACA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C9278B8-23BA-42DF-A713-82800071EACA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7E029B8-50CE-4199-A230-3E1992D1721A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7E029B8-50CE-4199-A230-3E1992D1721A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7E029B8-50CE-4199-A230-3E1992D1721A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7E029B8-50CE-4199-A230-3E1992D1721A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57828B4E-1DEA-4D49-98EF-2D0DB36AC2D0}
+	EndGlobalSection
+EndGlobal
